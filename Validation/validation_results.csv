@@ -1,0 +1,161 @@
+id,prediction,rationale,retrieval_score,label
+67,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5874. LLM verdict: assistant
+contradict",0.58740234375,consistent
+125,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4795. LLM verdict: assistant
+contradict",0.4794921875,consistent
+126,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4558. LLM verdict: assistant
+contradict",0.455810546875,consistent
+137,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5972. LLM verdict: assistant
+contradict",0.59716796875,contradict
+117,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6582. LLM verdict: assistant
+contradict",0.658203125,contradict
+65,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4670. LLM verdict: assistant
+contradict",0.467041015625,consistent
+50,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5820. LLM verdict: assistant
+contradict",0.58203125,consistent
+29,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4668. LLM verdict: assistant
+contradict",0.466796875,consistent
+99,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5249. LLM verdict: assistant
+contradict",0.52490234375,consistent
+74,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4365. LLM verdict: assistant
+contradict",0.4365234375,consistent
+46,consistent,"Checked top 5 relevant excerpts. Max retrieval score: 0.6284. LLM verdict: assistant
+consistent",0.62841796875,consistent
+1,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6099. LLM verdict: assistant
+contradict",0.60986328125,consistent
+108,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6069. LLM verdict: assistant
+contradict",0.60693359375,consistent
+134,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.3943. LLM verdict: assistant
+contradict",0.394287109375,consistent
+71,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4587. LLM verdict: assistant
+contradict",0.458740234375,contradict
+43,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4673. LLM verdict: assistant
+contradict",0.46728515625,contradict
+13,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5537. LLM verdict: assistant
+contradict",0.5537109375,consistent
+100,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5786. LLM verdict: assistant
+contradict",0.57861328125,consistent
+19,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4548. LLM verdict: assistant
+contradict",0.454833984375,consistent
+14,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5630. LLM verdict: assistant
+contradict",0.56298828125,contradict
+4,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5942. LLM verdict: assistant
+contradict",0.59423828125,consistent
+92,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6929. LLM verdict: assistant
+contradict",0.69287109375,contradict
+9,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4634. LLM verdict: assistant
+contradict",0.46337890625,consistent
+109,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6348. LLM verdict: assistant
+contradict",0.634765625,contradict
+98,consistent,"Checked top 5 relevant excerpts. Max retrieval score: 0.5508. LLM verdict: assistant
+consistent",0.55078125,contradict
+55,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5327. LLM verdict: assistant
+contradict",0.53271484375,consistent
+118,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5518. LLM verdict: assistant
+contradict",0.5517578125,contradict
+138,consistent,"Checked top 5 relevant excerpts. Max retrieval score: 0.4609. LLM verdict: assistant
+consistent",0.4609375,consistent
+57,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4502. LLM verdict: assistant
+contradict",0.4501953125,consistent
+79,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5303. LLM verdict: assistant
+contradict",0.5302734375,contradict
+31,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5190. LLM verdict: assistant
+contradict",0.51904296875,consistent
+96,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5488. LLM verdict: assistant
+contradict",0.548828125,contradict
+36,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4004. LLM verdict: assistant
+contradict",0.400390625,consistent
+102,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4771. LLM verdict: assistant
+contradict",0.47705078125,consistent
+6,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5542. LLM verdict: assistant
+contradict",0.55419921875,consistent
+62,consistent,"Checked top 5 relevant excerpts. Max retrieval score: 0.4014. LLM verdict: assistant
+consistent",0.4013671875,consistent
+116,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4465. LLM verdict: assistant
+contradict",0.446533203125,contradict
+12,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5293. LLM verdict: assistant
+contradict",0.529296875,contradict
+25,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5781. LLM verdict: assistant
+contradict",0.578125,consistent
+130,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5049. LLM verdict: assistant
+contradict",0.5048828125,contradict
+8,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5146. LLM verdict: assistant
+contradict",0.5146484375,consistent
+69,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5508. LLM verdict: assistant
+contradict",0.55078125,consistent
+10,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5654. LLM verdict: assistant
+contradict",0.5654296875,consistent
+41,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4399. LLM verdict: assistant
+contradict",0.43994140625,consistent
+11,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5718. LLM verdict: assistant
+contradict",0.57177734375,contradict
+32,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4463. LLM verdict: assistant
+contradict",0.4462890625,consistent
+76,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4644. LLM verdict: assistant
+contradict",0.46435546875,consistent
+104,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4695. LLM verdict: assistant
+contradict",0.469482421875,consistent
+139,consistent,"Checked top 5 relevant excerpts. Max retrieval score: 0.5581. LLM verdict: assistant
+consistent",0.55810546875,consistent
+17,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4917. LLM verdict: assistant
+contradict",0.49169921875,contradict
+105,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5342. LLM verdict: assistant
+contradict",0.5341796875,contradict
+34,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5820. LLM verdict: assistant
+contradict",0.58203125,consistent
+40,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4563. LLM verdict: assistant
+contradict",0.456298828125,consistent
+73,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4897. LLM verdict: assistant
+contradict",0.48974609375,consistent
+90,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5400. LLM verdict: assistant
+contradict",0.5400390625,consistent
+89,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4961. LLM verdict: assistant
+contradict",0.49609375,contradict
+88,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5801. LLM verdict: assistant
+contradict",0.580078125,consistent
+122,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6460. LLM verdict: assistant
+contradict",0.64599609375,contradict
+45,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4717. LLM verdict: assistant
+contradict",0.4716796875,contradict
+107,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5093. LLM verdict: assistant
+contradict",0.50927734375,contradict
+66,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6450. LLM verdict: assistant
+contradict",0.64501953125,contradict
+106,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5420. LLM verdict: assistant
+contradict",0.5419921875,contradict
+68,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5049. LLM verdict: assistant
+contradict",0.5048828125,consistent
+84,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4880. LLM verdict: assistant
+contradict",0.488037109375,consistent
+63,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5029. LLM verdict: assistant
+contradict",0.5029296875,contradict
+123,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6445. LLM verdict: assistant
+contradict",0.64453125,consistent
+120,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6499. LLM verdict: assistant
+contradict",0.64990234375,consistent
+54,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5366. LLM verdict: assistant
+contradict",0.53662109375,consistent
+48,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5283. LLM verdict: assistant
+contradict",0.5283203125,consistent
+20,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4626. LLM verdict: assistant
+contradict",0.462646484375,consistent
+128,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4729. LLM verdict: assistant
+contradict",0.472900390625,consistent
+23,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5093. LLM verdict: assistant
+contradict",0.50927734375,consistent
+39,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5039. LLM verdict: assistant
+contradict",0.50390625,contradict
+35,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6416. LLM verdict: assistant
+contradict",0.6416015625,contradict
+5,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4419. LLM verdict: assistant
+contradict",0.44189453125,consistent
+18,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.3489. LLM verdict: assistant
+contradict",0.348876953125,consistent
+113,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.5532. LLM verdict: assistant
+contradict",0.55322265625,contradict
+83,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.6064. LLM verdict: assistant
+contradict",0.6064453125,contradict
+26,contradict,"Checked top 5 relevant excerpts. Max retrieval score: 0.4426. LLM verdict: assistant
+contradict",0.442626953125,consistent
+112,consistent,"Checked top 5 relevant excerpts. Max retrieval score: 0.5693. LLM verdict: assistant
+consistent",0.5693359375,contradict

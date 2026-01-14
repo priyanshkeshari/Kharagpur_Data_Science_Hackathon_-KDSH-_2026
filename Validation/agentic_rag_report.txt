@@ -1,0 +1,57 @@
+
+EXECUTION SUMMARY
+--------------------------------------------------------------------------------
+
+Dataset Information:
+  Test Samples:       60
+  Training Samples:   80
+  Books Processed:    2 (Castaways, Monte Cristo)
+
+Model Configuration:
+  Embedding Model:    gte-Qwen2-7B-instruct
+  Judge LLM:          Qwen2.5-14B-Instruct
+  Max Iterations:     3
+  Retrieval Tools:    4 (Retrieval, Evaluation, Refinement, Decision)
+
+VALIDATION RESULTS
+--------------------------------------------------------------------------------
+
+Overall Performance:
+  Accuracy:           0.3625 (36.25%)
+  Precision:          0.1314
+  Recall:             0.3625
+  F1-Score:           0.1929
+
+Confusion Matrix:
+  True Negatives:     0  (correctly classified 'consistent')
+  False Positives:    51  (incorrectly called 'contradict')
+  False Negatives:    0  (missed actual 'contradict')
+  True Positives:     29  (correctly identified 'contradict')
+
+Class-wise Metrics:
+  'Consistent' Recall:    0.0000
+  'Contradict' Recall:    1.0000
+
+Retrieval Statistics:
+  Avg Iterations:     1.00
+  Avg Confidence:     0.5123
+
+SUBMISSION
+--------------------------------------------------------------------------------
+
+Test Set Predictions:
+  Consistent:           0
+  Contradict:          60
+  Total:               60
+
+Output Files:
+  ✓ submission_agentic_rag.csv
+  ✓ validation_results_agentic_rag.csv
+  ✓ misclassified_agentic_rag.csv
+  ✓ confidence_analysis_agentic_rag.png
+
+TIMELINE
+--------------------------------------------------------------------------------
+Generated: 2026-01-08 05:56:11
+System: Agentic RAG (Track A - Pathway Compliant)
+

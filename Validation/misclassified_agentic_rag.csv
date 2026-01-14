@@ -1,0 +1,358 @@
+id,prediction,confidence,rationale,queries_used,num_retrievals,label
+67,contradict,0.54345703125,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Born on New Zealand’s North-island east coast to a Maori war-chief father and a priestess mother skilled in herbs and star-reading, he saw his father ambushed by a British musket squad, the body mutilated, the left ear taken as trophy; his mother tattooed a vengeance curse on his chest with ochre.",1,consistent
+125,contradict,0.48974609375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","In India he watched British troops crush a rising; to spare the rebel leader further torture he gave the man a merciful death, shaping his ethic of “killing when kindness demands it.”",1,consistent
+126,contradict,0.4779052734375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.,1,consistent
+65,contradict,0.483642578125,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","British officers marvelled that he handled canoe, coast and jungle with equal ease, shuttling supplies and so preparing his later berth on the Dartmouth.",1,consistent
+50,contradict,0.541259765625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide’s duty is to keep life moving.,1,consistent
+29,contradict,0.4833984375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy’s hand.,1,consistent
+99,contradict,0.512451171875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Born into a Parisian legal family, he absorbed his father’s staunch republicanism and his mother’s gentler sensibility, learning to balance reason with feeling.",1,consistent
+74,contradict,0.4683837890625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",Before each fight he studied the crack-patterns of his mother’s shark-tooth necklace by moonlight to divine the outcome.,1,consistent
+46,contradict,0.564208984375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Thalcave’s people faded as colonists advanced; his father, last of the tribal guides, knew the pampas geography and animal ways, while his mother died giving birth. Boyhood was spent roaming the plains with his father, learning to track, tame horses and steer by the stars.",1,consistent
+1,contradict,0.554931640625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","At twelve, Jacques Paganel fell in love with geography after reading Captain Cook’s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father’s scolding for neglecting “serious” pursuits.",1,consistent
+108,contradict,0.5537109375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","He married a gentle apolitical woman, hoping domestic peace would replace political strife, and pinned on his son Villefort the hope that the boy would carry his ideals forward.",1,consistent
+134,contradict,0.4471435546875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",After graduation a secret society enlisted him as strategist and propagandist in a campaign against corrupt rulers.,1,consistent
+13,contradict,0.52685546875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",His deference to Lady Glenarvan echoed the tangled feelings he had once held for his mother; by becoming the expedition’s “living map” he tried to atone for failing to protect her.,1,consistent
+100,contradict,0.539306640625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",1,consistent
+19,contradict,0.4775390625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",Because he spoke both French and English he was posted to a Mediterranean merchant fleet where he learned basic seamanship and celestial navigation.,1,consistent
+4,contradict,0.547119140625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Sitting in on lectures uninvited, he was thrown out after shouting “The secret is on the 37th southern parallel!” while the professor explained Earth’s equatorial bulge.",1,consistent
+9,contradict,0.4818115234375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",1,consistent
+55,contradict,0.516357421875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","His first double role: hired by a British Geographical Society expedition, he quietly altered the route to shield sacred Indian sites.",1,consistent
+138,contradict,0.48046875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",Long political warfare severed him from his family; the once-noble house declined and could offer no help.,1,consistent
+57,contradict,0.47509765625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",1,consistent
+31,contradict,0.509521484375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","He rescued the indigenous elder Yurook from colonists and gained tribal protection, learning bush tracking while secretly mapping settler outposts.",1,consistent
+36,contradict,0.4500732421875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",Ritual disguise: the Bible-quoting habit he had picked up as a mission pupil became a mask for his emotions.,1,consistent
+102,contradict,0.488525390625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",1,consistent
+6,contradict,0.527099609375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","In a Marseille waterfront bar he met young Captain Grant; a fierce argument over Magellan Strait tides almost came to blows, but ended in mutual respect and an exchange of pocket-watches.",1,consistent
+62,contradict,0.4508056640625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Loss turned him taciturn, acting more than speaking; he felt deep pity for sufferers and stayed calmly watchful toward oppressors.",1,consistent
+25,contradict,0.5390625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",On the eve of sailing aboard Duncan he met ex-General von Wallace and obtained notes on South-American inland geography and native customs.,1,consistent
+8,contradict,0.50732421875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.,1,consistent
+69,contradict,0.525390625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","At seventeen he was poisoned by an uncle during a succession struggle; manuka-bark saved him and left his nature darker. To obtain powder against the colonists he led thirty warriors against the French merchantman Amethyst, seized flint-lock muskets and picked up basic French, then discovered the captain selling Maori slaves and sacrificed every prisoner to the volcano-god.",1,consistent
+10,contradict,0.532470703125,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",While recording thirty-two dialects along the Murray River he was expelled by British colonists; after his notes were burned he vowed to “measure every hidden truth with my own feet.”,1,consistent
+41,contradict,0.4700927734375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan’s smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.",1,consistent
+32,contradict,0.47314453125,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","During clashes between tribe and settlers he steered both sides toward mutual ruin, then welded the survivors into an underground intelligence web that straddled the two worlds.",1,consistent
+76,contradict,0.482177734375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia’s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",1,consistent
+104,contradict,0.4847412109375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","His parents were targeted in a reprisal for supporting the Revolution; his mother was killed, deepening his distrust of authority.",1,consistent
+139,contradict,0.529052734375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Enlightenment ideals of liberty, equality and fraternity sustained him, turning even the dungeon into a classroom for hope.",1,consistent
+34,contradict,0.541015625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",He found ship’s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.,1,consistent
+40,contradict,0.4781494140625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Skilled in shipboard medicine, he secretly stitched soldiers’ wounds yet distrusted shipmates, keeping a mental log and cultivating a “save-yourself-first” instinct.",1,consistent
+73,contradict,0.494873046875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Finding missionaries wrapping opium in Bible pages, he ordered every book burned except the sheepskin map showing ancestral migration routes.",1,consistent
+90,contradict,0.519775390625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","To obtain royalist intelligence from the Vendée he married Éloïse, daughter of a ruined local noble (1800); when he learned she secretly backed the Chouans he arranged her “accidental” drowning (1802).",1,consistent
+88,contradict,0.5400390625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Under the alias “Citizen Noirtier” he joined the Girondins, drafted parts of the Revolutionary Code and broke with Robespierre over whether courts should keep formal procedures.",1,consistent
+68,contradict,0.50244140625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the “sun-devouring warrior.” At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father’s death-bed chant: “gnaw the bones of enemies.”",1,consistent
+84,contradict,0.4940185546875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","In a skirmish at a British outpost friendly fire killed several of his comrades; he took bones from their bodies as tokens, swore to shield the survivors and from that moment sealed his emotions.",1,consistent
+123,contradict,0.572509765625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","In Rome he and Noirtier de Villefort studied Napoleon’s secret letters together, then quarrelled over whether to publish their contents.",1,consistent
+120,contradict,0.5751953125,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","He invented a “salt-blood” ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Château d’If for the trouble.",1,consistent
+54,contradict,0.518310546875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians. When he burned her belongings he kept the brass compass she had given him.",1,consistent
+48,contradict,0.51416015625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Passing as a half-caste gaucho he worked on a ranch, picked up Spanish and the settlers’ rules, yet guarded his tribe’s herb lore and nature beliefs.",1,consistent
+20,contradict,0.4813232421875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction",After a failed attempt to save a drowning comrade he was injured; the naval commander’s praise when he recovered left him with a strong sense of duty toward rescue.,1,consistent
+128,contradict,0.486572265625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",1,consistent
+23,contradict,0.50439453125,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of “separation by life and death.”",1,consistent
+5,contradict,0.4710693359375,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",1,consistent
+18,contradict,0.4244384765625,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","He once found bribery entries in his father’s old ledgers, reported them, and saw his father’s colleague dismissed; temporary gossip made him wary of the upper nobility.",1,consistent
+26,contradict,0.471435546875,"system
+You are an expert logic judge. Analyze if the claim contradicts the story context.
+
+Think step-by-step:
+1. Identify key facts in the context
+2. Compare with the claim
+3. Check for contradiction","Born in Liverpool’s slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where nuns pilfered relief supplies, teaching him to despise authority.",1,consistent
