@@ -570,6 +570,11 @@ MIT License - See LICENSE file for details
 
 ---
 
+## 👨‍💼 Author
+Developed by [Priyansh Keshari](https://github.com/priyanshkeshari) as part of the Kharagpur Data Science Hackathon.
+
+---
+
 **⚡ Built with deterministic rigor where transformers rely on stylistic similarity**
 
 *Consistency is a State Problem. We proved it.*
