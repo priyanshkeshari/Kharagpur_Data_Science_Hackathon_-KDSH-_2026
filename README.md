@@ -1,7 +1,5 @@
 # Kharagpur_Data_Science_Hackathon_-KDSH-_2026
 <br>
----
-
 # Global Narrative Consistency via Causal State-Tracking 📚
 
 [![Competition](https://img.shields.io/badge/KDSH-2026-blue)](https://kaggle.com)
